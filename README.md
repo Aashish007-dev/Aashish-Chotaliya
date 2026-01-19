@@ -21,7 +21,7 @@ I am a passionate MERN Stack developer focused on building scalable backend appl
 - Real-time chat features
 - RESTful APIs
 - MongoDB database integration  
-🔗 GitHub Repo: *(add link)*
+🔗 GitHub Repo: https://github.com/Aashish007-dev/Mern_chat_app_project1
 
 ## 📈 Currently Learning
 - Advanced Backend Development
